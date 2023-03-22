@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+  margin: 0;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+header{
+  margin-top: 20px;
+}
+.logo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo img{
+  width: 150px;
+}
+.logo-info{
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.emogi{
+  display: flex;
+  align-items: center;
+}
+.emogi-item{
+  margin: 10px 30px 10px 30px;
+}
+.questbox{
+  width: 100%;
+  padding: 30px;
+  background-color: #d9d9f9;
+  border-radius: 20px;
+  margin: 20px 0 20px 0;
+  font-size: 20px;
+}
+.box{
+  margin-left: 40px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.questextra{
+  width: 100%;
+  border-radius: 20px;
+  background-color: #d9d9f9;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  align-items: center;
+}
+h1, h3{
+  text-align: center;
+}
+input{
+  margin: 10px;
+}
+fieldset, textarea{
+  width:100%;
+  border-radius: 10px;
+  font-size: 18px;
+  padding: 10px;
+  resize: none;
+}
+fieldset{
+  margin-top: 20px;
+}
+#botao{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+  margin: 10px 0 50px 0;
+}

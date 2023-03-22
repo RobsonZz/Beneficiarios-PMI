@@ -12,7 +12,7 @@ require 'config.php';
     <header>
       <div class="logo">
           <img src="assets/images/italogo.jpg">
-          <div class="logo-info"><p>Prefeitura Municipal de Itapemirim</p>
+          <div class="logo-info"><p>Prefeitura Municipal de TãoTão Distante</p>
               <p>Secretaria Municipal de Assistência Social e Cidadania</p>
               <h3>LOGIN DO SERVIDOR</h3>
           </div>
